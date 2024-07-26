@@ -2,10 +2,10 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=MGhait.MGhait" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Mohamed+Ghait!;Laravel+Back-End+Developer" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4500&lines=Hi+There+!+👋;+I'm+Mohamed+Ghait+!;Laravel+Back-End+Developer" />
 </h1>
 <img align="right" width="400"  src="https://github.com/user-attachments/assets/ed4d4dd5-1d8e-4fde-89dc-2250f3dad699" alt="gif" /> 
-<h3 align="left">(PHP & Laravel) Back-End developer from Egypt 🇪🇬️</h3>
+<h3 align="left">PHP & Laravel Back-End developer from Egypt 🇪🇬️</h3>
 <h3 align="left">Currently ECE Student at Mansura University</h3>
 
 
@@ -27,9 +27,11 @@
   <a href="https://www.linkedin.com/in/mohamed-ghait304/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+    <!--
   <a href="https://MGhait.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a> 
+    -->
 </div>
 
  <hr clear="left"/> 
