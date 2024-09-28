@@ -74,6 +74,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=MGhait&count_private=true&theme=vue-dark&border_radius=10&cache_seconds=1800" alt="MGhait's GitHub stats" />
 </a>
+    <br/>
 </div>
 
 <br/><br/>
