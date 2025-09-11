@@ -16,7 +16,7 @@
  
  🌱 I’m currently learning **Laravel FrameWork**
 
-⚡ Fun fact **I Like Reading 📖 Coding 👨🏻‍💻 and Plaing Chess ♟️💀** 
+⚡ Fun fact **I Like Reading 📖 Coding 👨🏻‍💻 and Playing Chess ♟️💀** 
 
  </div>
  
